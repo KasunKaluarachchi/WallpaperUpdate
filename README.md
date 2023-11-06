@@ -5,4 +5,4 @@
 
 ### Built With
  <a href="https://www.python.org/" alt="Python">
-        <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"  width="250" height="300" /></a>
+        <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"  width="200" height="300" /></a>
