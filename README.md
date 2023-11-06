@@ -4,5 +4,5 @@
 * Educational purpose only
 
 ### Built With
-* [![Python][Python.com]][Python-url]
-* (!(JQuery)(JQuery.com))(JQuery-url)
+* [[Python][Python.com]][Python-url]
+* ((JQuery)(JQuery.com))(JQuery-url)
